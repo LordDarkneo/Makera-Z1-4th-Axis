@@ -1,0 +1,5 @@
+# Keep this directory tracked by git
+
+Place Bill of Materials files (CSV, XLSX, etc.) here.
+
+Example filename: makera_z1_4th_axis_bom.csv
