@@ -6,6 +6,18 @@ Repository folder structure added:
 
 - BOM/
   - Place Bill of Materials files here (CSV, XLSX or similar). Example filename: `makera_z1_4th_axis_bom.csv`.
+  - From first picture and identification of the legacy build:
+    - NEMA 17 x 1
+    - 12T GT2 Pulley x 1
+    - 60T GT2 pulley x1
+    - Neodyme Magnet
+    - Hall sensor x1
+    - GT2 Belt (length to be validated) x1
+    - Self Centering jaw chuck x1
+   
+- DYI version will include:
+  - 10 mm H6 steel rod x1 (length to be validated)
+  - 7000-2RS bearing (ideally AC P5) x2
 
 - STL files/
   - Place 3D model files (.stl) for printed parts here. Keep filenames descriptive and versioned, e.g. `jaw_plate_v1.stl`.
