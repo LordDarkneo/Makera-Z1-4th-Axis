@@ -1,0 +1,5 @@
+# Keep this directory tracked by git
+
+Place STL model files (.stl) for printed parts here.
+
+Example filename: jaw_plate_v1.stl
