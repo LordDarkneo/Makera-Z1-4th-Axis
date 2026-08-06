@@ -12,7 +12,7 @@ Repository folder structure added:
     - 60T GT2 pulley x1
     - Neodyme Magnet
     - Hall sensor x1
-    - GT2 Belt (length to be validated) x1
+    - GT2 Belt (length 175mm) x1
     - Self Centering jaw chuck x1
    
 - DYI version will include:
