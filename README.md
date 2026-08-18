@@ -30,3 +30,8 @@ Notes
 - The repository currently includes placeholder files to ensure these directories are tracked by git. Replace the placeholders with your actual BOM and STL files.
 
 If you'd like a different folder naming convention (for example `stl_files` instead of `STL files`) or additional subfolders (e.g., `source_models/`, `drawings/`), tell me and I can update the structure.
+
+Follow-up: 
+Assembly is ongoing. The first backplate version seems to be fine:
+<img width="949" height="717" alt="image" src="https://github.com/user-attachments/assets/35055728-1935-487b-b824-cc5adddebfd9" />
+
