@@ -1,7 +1,4 @@
-
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c9fecce6-0f04-4d9f-a1c8-18975ff3c880" />
-
-# Makera-Z1-4th-Axis
+# Makera-Z1-4th-Axis <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/c9fecce6-0f04-4d9f-a1c8-18975ff3c880" />
 
 This project repo aims to allow Makera Z1 owners to build and source their own parts in order to build a 4th axis on their own.
 
