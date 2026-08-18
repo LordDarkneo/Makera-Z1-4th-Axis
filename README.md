@@ -33,7 +33,10 @@ If you'd like a different folder naming convention (for example `stl_files` inst
 
 Follow-up: 
 Assembly is ongoing. The first backplate version seems to be fine:
-<img width="949" height="717" alt="image" src="https://github.com/user-attachments/assets/35055728-1935-487b-b824-cc5adddebfd9" />
+
+<img width="900" height="859" alt="image" src="https://github.com/user-attachments/assets/8bf04eff-ee01-4f8c-8cee-2e7e64d1e59c" />
+
+Only Hall sensor and board remains, then I will start working on the enclosure
 
 **Summary of the costs (in CAD):**
 - NEMA 17  0$ (in stock)
