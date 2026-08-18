@@ -11,7 +11,7 @@ Repository folder structure added:
     - 12T GT2 Pulley x 1 12T 6mm x 5mm axis [source here](https://www.aliexpress.com/item/1005006217674592.html?spm=a2g0o.order_list.order_list_main.29.e4d35e5b72unb5)
     - 60T GT2 pulley x1 60T 6mm x 10mm axis [source here](https://www.aliexpress.com/item/1005005779406807.html?spm=a2g0o.order_list.order_list_main.11.e4d35e5b72unb5)
     - Neodyme Magnet
-    - Hall sensor x1
+    - Hall sensor x1 [source here](https://www.amazon.ca/-/fr/dp/B07SBT8WH6?psc=1&smid=A1G4TRJSF885ET&ref_=chk_typ_imgToDp)
     - GT2 Belt (length 176mm) x1 [source here](https://www.aliexpress.com/item/1005007811742786.html?spm=a2g0o.order_list.order_list_main.23.e4d35e5b72unb5)
     - Self Centering jaw chuck x1 with the 10mm rod adapter [source here](https://www.aliexpress.com/item/1005009437663583.html?spm=a2g0o.order_list.order_list_main.35.e4d35e5b72unb5)
    
@@ -43,12 +43,12 @@ Only Hall sensor and board remains, then I will start working on the enclosure
 - 12T GT2 Pulley 4.89$
 - 60T GT2 pulley 7.88$
 - Neodyme Magnet 0$ (in stock)
-- Hall sensor TBC
+- Hall sensor 10.34 (x3)
 - GT2 Belt 2.95
 - Self Centering jaw chuck 35.65$
-- 10 mm H6 steel rod 12.18
+- 10 mm H6 steel rod 12.18 (x2)
 - 7000-2RS bearing 18.16
 
-**Grand Total = 81.71** 
+**Grand Total = 92.05** 
 
 
