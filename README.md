@@ -4,7 +4,7 @@ This project repo aims to allow Makera Z1 owners to build and source their own p
 
 Repository folder structure added:
 
-- BOM/
+# - BOM:#
   - Place Bill of Materials files here (CSV, XLSX or similar). Example filename: `makera_z1_4th_axis_bom.csv`.
   - From first picture and identification of the legacy build:
     - NEMA 17 x 1
@@ -20,14 +20,14 @@ Repository folder structure added:
   - 10 mm H6 steel rod x1 (length to be validated) [source here](https://www.aliexpress.com/item/1005001628031225.html?spm=a2g0o.order_list.order_list_main.5.e4d35e5b72unb5) **Danger H8/h9 not h6**
   - 7000-2RS bearing (ideally AC P5) x2 [source here](https://www.aliexpress.com/item/1005012423323576.html?spm=a2g0o.order_list.order_list_main.17.e4d35e5b72unb5)
 
-- STL files/
+# - STL files #
   - Place 3D model files (.stl) for printed parts here. Keep filenames descriptive and versioned, e.g. `jaw_plate_v1.stl`.
 
 How to use
 - Add BOM files to the `BOM/` directory. Include columns for part name, quantity, material, supplier/link, and notes.
 - Add exported STL files to the `STL files/` directory. Prefer one part per STL file and include versioning in filenames.
 
-Electric wiring
+# - Electric wiring #
 Hereunder is the pinout on the molex mx3.0-8P
 <img width="606" height="620" alt="d563652887ca230d68deb777a2b4c75" src="https://github.com/user-attachments/assets/667305ad-df6e-4e04-b599-a210de6182a2" />
 
