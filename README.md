@@ -14,6 +14,7 @@ Repository folder structure added:
     - Hall sensor x1 [source here](https://www.amazon.ca/-/fr/dp/B07SBT8WH6?psc=1&smid=A1G4TRJSF885ET&ref_=chk_typ_imgToDp)
     - GT2 Belt (length 176mm) x1 [source here](https://www.aliexpress.com/item/1005007811742786.html?spm=a2g0o.order_list.order_list_main.23.e4d35e5b72unb5)
     - Self Centering jaw chuck x1 with the 10mm rod adapter [source here](https://www.aliexpress.com/item/1005009437663583.html?spm=a2g0o.order_list.order_list_main.35.e4d35e5b72unb5)
+    - 6902RS *will be replaced by 7000 AC bearings*
    
 - DYI version will include:
   - 10 mm H6 steel rod x1 (length to be validated) [source here](https://www.aliexpress.com/item/1005001628031225.html?spm=a2g0o.order_list.order_list_main.5.e4d35e5b72unb5) **Danger H8/h9 not h6**
@@ -25,6 +26,11 @@ Repository folder structure added:
 How to use
 - Add BOM files to the `BOM/` directory. Include columns for part name, quantity, material, supplier/link, and notes.
 - Add exported STL files to the `STL files/` directory. Prefer one part per STL file and include versioning in filenames.
+
+Electric wiring
+Hereunder is the pinout on the molex mx3.0-8P
+<img width="606" height="620" alt="d563652887ca230d68deb777a2b4c75" src="https://github.com/user-attachments/assets/667305ad-df6e-4e04-b599-a210de6182a2" />
+
 
 Notes
 - The repository currently includes placeholder files to ensure these directories are tracked by git. Replace the placeholders with your actual BOM and STL files.
